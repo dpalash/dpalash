@@ -14,11 +14,10 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **About Me:**
 
-- I’m currently working on __[Chalkboard](https://github.com/zjayers/chalkboard)__.
-- I’m currently learning __Ruby__, __PHP__, & __GoLang__.
+- I’m currently working on __[Fintech](linkere)__.
+- I’m currently learning __C#__, __ASP.NET Core__, & __Microsoft Azure__.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
-- Fun-Fact: I was a mechanical engineering before becoming a software engineer.
 - How to reach me: __palashdebnath23s@hotmail.com__
 
 ---
@@ -81,4 +80,3 @@ You can use the website to generate badges: https://shields.io/
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpalash&theme=dark&layout=compact" /></p><p><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><!--<img src=https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif width="105"><img src=https://media4.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif width="105">--></p>
   
 </div>
------
