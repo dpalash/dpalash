@@ -1,82 +1,84 @@
-<!-- Your title -->
-## Hello, I'm Palash Debnath!
+# Hi, I'm Palash Debnath
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
+### Engineering Manager | .NET & Azure | Software Architecture | Agentic AI
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://www.hackerrank.com/palashdebnath23)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/dpalash)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dpalash23/)
+I'm an Engineering Manager at **Cefalo Bangladesh Ltd**, with **14+ years of experience** building enterprise applications, cloud services, and software for fintech and maritime navigation.
 
-&nbsp;
+I lead and mentor multiple engineering teams, align technical execution with business goals, and support reliable delivery. My background spans hands-on development, architecture, microservices, and modernizing complex applications.
 
-<!-- Talking about you -->
-**About Me:**
+I also oversee the integration of **agentic AI and LLM-powered solutions** across engineering teams, including **Model Context Protocol (MCP)** integrations, **retrieval-augmented generation (RAG)**, and AI-assisted development workflows.
 
-- I’m currently working on __[Fintech](linkere)__.
-- I’m currently learning __C#__, __ASP.NET Core__, & __Microsoft Azure__.
-- I’m looking to collaborate on anything!
-- Ask me about anything, I am happy to help.
-- How to reach me: __palashdebnath23s@hotmail.com__
+[LinkedIn](https://www.linkedin.com/in/dpalash23/) · [GitHub](https://github.com/dpalash) · [HackerRank](https://www.hackerrank.com/palashdebnath23) · [Email](mailto:palashdebnath23s@hotmail.com)
 
----
+## Engineering Leadership
 
-**Languages and Tools:**
+- Lead and mentor engineering teams, supporting technical growth and team performance.
+- Guide project planning, stakeholder communication, and software delivery.
+- Connect architecture and implementation decisions with business priorities.
+- Improve engineering practices through automated testing, CI/CD, and continuous improvement.
+- Help teams adopt AI tools and workflows to improve developer productivity.
 
-<p>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/backbonejs/backbonejs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
-   <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/gruntjs/gruntjs-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/parceljs/parceljs-ar21.svg"></code>
-</p>
+## Technical Focus
 
----
+- **Backend engineering:** C#, .NET, ASP.NET Core, REST APIs, and enterprise applications.
+- **Architecture:** Microservices, domain-driven design, modular architecture, and monolith decomposition.
+- **Cloud engineering:** Microsoft Azure, Service Fabric, application hosting, messaging, identity, and observability.
+- **Frontend development:** React, Angular, TypeScript, and JavaScript.
+- **AI integration:** Agent architectures, MCP, RAG, and agentic workflow design.
+- **Engineering quality:** Test-driven development, automated testing, and continuous delivery.
 
-<a href="https://github.com/dpalash/github-readme-stats">
-   <img width="60%" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api?username=dpalash&show_icons=true&hide_border=true" />
-</a>
+## Technologies
 
-<div align = "center">
-  <img align="center" src= "https://github-profile-trophy.vercel.app/?username=dpalash&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" />
-</div>
-<p></p>
-<div align = "center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpalash&theme=dark&layout=compact" /></p><p><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><!--<img src=https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif width="105"><img src=https://media4.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif width="105">--></p>
-  
-</div>
+| Area | Technologies |
+| --- | --- |
+| Backend | C#, .NET, ASP.NET Core, ASP.NET MVC, Web API |
+| Frontend | React, Angular, TypeScript, JavaScript, HTML, CSS |
+| Desktop | WPF, WinForms, UWP, XAML, MVVM |
+| Data | SQL Server, Cosmos DB, MySQL, SQLite, Entity Framework Core, Dapper, LINQ |
+| Azure | Service Fabric, App Service, Service Bus, Storage, Key Vault, Application Insights, Azure AD |
+| Messaging & Caching | RabbitMQ, Redis |
+| Delivery & Testing | Git, Azure DevOps, TeamCity, CI/CD, xUnit, Moq |
+| AI & Developer Tools | GitHub Copilot, Claude, MCP, RAG |
+
+## Selected Experience
+
+### Cefalo — Engineering Manager
+**January 2024–Present**
+
+Lead multiple engineering teams, oversee delivery and team development, and align engineering work with client and business goals.
+
+### Blockbonds / SPENN — Lead Software Engineer
+**August 2021–December 2023**
+
+Worked on a fintech platform supporting payments, savings, investments, and loans. The technology stack included C#, ASP.NET Core, Azure, microservices, domain-driven design, and Angular.
+
+### StormGeo — Senior Developer
+**August 2016–February 2021**
+
+Worked on maritime navigation products, including:
+
+- **Navi Planner:** Digital nautical charts, route planning, weather-aware route optimization, and voyage planning.
+- **SFNeptune Server:** Azure Service Fabric services supporting multiple maritime client applications.
+
+### StormGeo — Developer
+**August 2014–2016**
+
+Developed **NaviTab**, a Windows Store application for distributing maritime publications.
+
+Earlier experience includes web applications in e-commerce, caregiving, and pregnancy support.
+
+## Education & Certifications
+
+- **B.Sc. in Computer Science & Engineering** — Khulna University of Engineering & Technology (KUET).
+- **Microsoft Certified Professional** — achieved in 2015.
+- **Microsoft Specialist: Programming in C#** — achieved in 2015.
+
+## Beyond Work
+
+My interest in engineering also extends to robotics and embedded systems. Earlier projects include **WAYFARER**, an automated robotic vehicle prototype, and line-following and racing robots developed for competitions.
+
+## Let's Connect
+
+I'm interested in conversations and collaboration around .NET, Azure, software architecture, engineering leadership, and practical AI integration.
+
+Reach me at **palashdebnath23s@hotmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/dpalash23/).
